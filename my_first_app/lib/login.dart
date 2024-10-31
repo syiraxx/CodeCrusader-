@@ -135,7 +135,7 @@ class _TutoScreenState extends State<TutoScreen> {
                     });
                     userLogin();
                   }
-                    //Navigator.push(context, MaterialPageRoute(builder: (context) => HomePage()));                  
+                    Navigator.push(context, MaterialPageRoute(builder: (context) => HomePage()));                  
                     }
                   ),
                   signUpOption()
